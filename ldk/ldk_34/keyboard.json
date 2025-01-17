@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Kruyerl",
-    "keyboard_name": "LDK",
-    "maintainer": "LDK",
+    "manufacturer": "kruyerl",
+    "keyboard_name": "ldk_34",
+    "maintainer": "kruyerl",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {

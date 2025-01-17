@@ -1,6 +1,6 @@
 # LDK_Wing
 
-The LDK_Wing (PCB Edition) is a 3x5 (34-keys) or 3x6 (40-keys) split monoblock ergonomic column-staggered keyboard.
+The LDK_Wing (PCB Edition) is a 3x5 (34-keys) split monoblock ergonomic column-staggered keyboard.
 
 * Keyboard Maintainer: [Luke Kruyer](https://github.com/kruyerl)
 * Hardware Supported: RP2040 Pro Micro, nice!nano

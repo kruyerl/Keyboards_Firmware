@@ -1,8 +1,11 @@
 {
-    "manufacturer": "Kruyerl",
-    "keyboard_name": "LDK",
-    "maintainer": "LDK",
+    "manufacturer": "kruyerl",
+    "keyboard_name": "ldk_skelytl",
+    "maintainer": "kruyerl",
     "bootloader": "rp2040",
+    "bootmagic": {
+        "matrix": [0,1]
+    },
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -14,11 +17,11 @@
         "rgblight": true
     },
     "matrix_pins": {
-        "cols": ["GP9", "GP10", "GP11", "GP12", "GP13", "GP18", "GP19", "GP20", "GP21", "GP22"],
-        "rows": ["GP0", "GP1", "GP14", "GP15"]
+        "cols": ["GP0", "GP1", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7", "GP8", "GP9"],
+        "rows": ["GP10", "GP11", "GP12", "GP13"]
     },
     "processor": "RP2040",
-    "url": "test.com",
+    "url": "",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x1019",
